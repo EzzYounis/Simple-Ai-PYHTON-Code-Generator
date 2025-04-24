@@ -1,0 +1,4 @@
+Flask
+openai
+python-dotenv
+azure-ai-inference
